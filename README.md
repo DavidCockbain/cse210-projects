@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-Modified by David Cockbain 
+Modified by David Cockbain.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
