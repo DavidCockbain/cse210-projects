@@ -23,12 +23,10 @@ else if (gradepercent >= 70)
 else if (gradepercent >= 60)
 {
     gradeletter = "D";
-
 }
 else if (gradepercent < 60)
 {
-    gradeletter = "F";
-    
+    gradeletter = "F";  
 }
 Console.WriteLine($"your grade is {gradeletter} ");
 if (gradepercent >= 70)
